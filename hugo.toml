@@ -1,0 +1,4 @@
+baseURL = "https://yumeyumeji.com/"
+languageCode = "ja"
+title = "yumeyumeji"
+theme = "PaperMod"
