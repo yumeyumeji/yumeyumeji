@@ -1,4 +1,25 @@
-baseURL = "https://yumeyumeji.com/"
-languageCode = "ja"
-title = "yumeyumeji"
-theme = "PaperMod"
+[menu]
+
+  [[menu.main]]
+  identifier = "top"
+  name = "TOP"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  identifier = "about"
+  name = "ABOUT"
+  url = "/about/"
+  weight = 2
+
+  [[menu.main]]
+  identifier = "link"
+  name = "LINK"
+  url = "/link/"
+  weight = 3
+
+  [[menu.main]]
+  identifier = "contact"
+  name = "CONTACT"
+  url = "/contact/"
+  weight = 4
