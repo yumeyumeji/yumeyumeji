@@ -20,7 +20,7 @@ title: "ABOUT"
   <ul>
     <li>個人サークル：<a href="https://bamboormnc.booth.pm">ばんぶーろまんす</a></li>
     <li>VRバンド（Gt.）：<a href="https://phantom-web.jp">PHANTOM</a></li>
-    <li>居場所：東京都 / VRChat / X（Twitter）</li>
+    <li>居場所：東京都 / VRChat / X</li>
     <li>好きなもの：東方Project、ノベルゲーム</li>
   </ul>
 </div>
