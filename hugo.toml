@@ -1,8 +1,41 @@
-[menu]
+baseURL = "https://yumeyumeji.com/"
+defaultContentLanguage = "ja"
+languageCode = "ja"
+title = "yumeji-official"
+theme = "hugo-coder-main"
 
+[params]
+  favicon_32 = "images/favicon.png"
+  keywords = "夢二, ギター, 音楽, 同人, VR, 東方, PHANOTOM, ばんぶーろまんす"
+  colorScheme = "light"
+  hideColorSchemeToggle = true
+  description = "夢二の個人サイトです"
+  customCSS = ["css/custom.css"]
+  avatarURL = "images/icon.jpg"
+  author = "Yumeji"
+  #OGP画像を指定
+  image = "images/ogp.png"
+
+  [[params.social]]
+    name = "X"
+    url  = "https://x.com/Yumeji_122"
+
+  [[params.social]]
+    name = "YouTube"
+    url  = "https://www.youtube.com/channel/UCklrdpcJIbHBUXY7rDpBPpA"
+
+  [[params.social]]
+    name = "foriio"
+    url  = "https://www.foriio.com/yumeji"
+
+  [[params.social]]
+    name = "BOOTH"
+    url  = "https://bamboormnc.booth.pm/"
+
+[menu]
   [[menu.main]]
-  identifier = "top"
-  name = "TOP"
+  identifier = "home"
+  name = "HOME"
   url = "/"
   weight = 1
 
@@ -12,14 +45,19 @@
   url = "/about/"
   weight = 2
 
-  [[menu.main]]
-  identifier = "link"
-  name = "LINK"
-  url = "/link/"
-  weight = 3
+  # [[menu.main]]
+  # identifier = "discography"
+  # name = "Discography"
+  # url = "/discography/"
+  # weight = 3
 
   [[menu.main]]
   identifier = "contact"
   name = "CONTACT"
   url = "/contact/"
   weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

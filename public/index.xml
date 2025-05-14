@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on </description>
+    <title>TOP on yumeji-official</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in TOP on yumeji-official</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABOUT</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;!-- 全体を中央寄せにする --&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&#xA;&lt;!-- アイコンを横並びで中央に配置 --&gt;&#xA;&lt;div style=&#34;display: flex; justify-content: center; gap: 1.5rem; margin-bottom: 1.5rem;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/icon.jpg&#34; class=&#34;icon&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/iconvr.jpg&#34; class=&#34;icon&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;!-- 名前・本文・リストを中央に置かれたブロックとして左揃え --&gt;&#xA;&lt;div style=&#34;display: inline-block; text-align: left; max-width: 400px;&#34;&gt;&#xA;  &lt;h3 style=&#34;text-align: left;&#34;&gt;夢二｜Yumeji&lt;/h3&gt;&#xA;  &lt;p&gt;音楽を作ったり、ギターを演奏したりしています。&lt;/p&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;個人サークル：&lt;a href=&#34;https://bamboormnc.booth.pm&#34;&gt;ばんぶーろまんす&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;VRバンド（Gt.）：&lt;a href=&#34;https://phantom-web.jp&#34;&gt;PHANTOM&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;居場所：東京都 / VRChat / X（Twitter）&lt;/li&gt;&#xA;    &lt;li&gt;好きなもの：東方Project、ノベルゲーム&lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>CONTACT</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;ご依頼・ご相談・お問い合わせは、以下のフォームよりお気軽にどうぞ。&lt;/p&gt;&#xA;&lt;iframe&#xA;  src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfBYQDLj0NxD3cmzKo8Bh6rVmYmNZUb0ResJj5oqLUUf3Zerg/viewform?embedded=true&#34;&#xA;  width=&#34;100%&#34; height=&#34;900&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&#xA;  読み込んでいます…&#xA;&lt;/iframe&gt;</description>
+    </item>
   </channel>
 </rss>
