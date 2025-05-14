@@ -13,7 +13,7 @@ theme = "hugo-coder-main"
 
 [params]
   favicon_32 = "images/favicon.png"
-  keywords = "夢二, ギター, 音楽, 同人, VR, 東方, PHANOTOM, ばんぶーろまんす"
+  keywords = "夢二, ギター, 音楽, 同人, VR, PHANOTOM, ばんぶーろまんす"
   colorScheme = "light"
   hideColorSchemeToggle = true
   description = "夢二の個人サイトです"
