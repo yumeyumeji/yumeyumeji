@@ -1,4 +1,4 @@
 +++
-title = "TOP"
+title = "HOME"
 layout = "home"
 +++

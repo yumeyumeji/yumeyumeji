@@ -21,7 +21,7 @@ theme = "hugo-coder-main"
   avatarURL = "images/icon.jpg"
   author = "Yumeji"
   #OGP画像を指定
-  image = "images/ogp.png"
+  image = "images/ogp.jpg"
 
   [[params.social]]
     name = "X"
