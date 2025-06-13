@@ -4,7 +4,7 @@ date = 2025-06-13T21:06:55+09:00
 +++
 
 ### エレキギター
-- RS Guitarworks STタイプ(Main)
+- RS Guitarworks STタイプ（Main）
 - Fender Japan TL72
 - Washburn N2
 
@@ -36,6 +36,8 @@ date = 2025-06-13T21:06:55+09:00
 - friendly fire Fx RAPPA FUZZ（ファズ）
 - PETERSON StroboStomp Mini（チューナー/バッファ）
 - VOX V846-HW（ワウ）
+- otodel WDB2g（ブースター）
+- friendly fire Fx Sirius OverDrive（オーバードライブ）
 - Animals Pedal Car Crush Chorus/Vibe（モジュレーション）
 - Caroline Guitar Company kilobyte（ディレイ）
 - Caroline Guitar Company METEORE（リバーブ）
