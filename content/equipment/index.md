@@ -1,5 +1,5 @@
 +++
-title = 'Equipment（機材リスト）'
+title = 'Equipment｜使用機材'
 date = 2025-06-13T21:06:55+09:00
 +++
 
@@ -41,3 +41,8 @@ date = 2025-06-13T21:06:55+09:00
 - Caroline Guitar Company METEORE（リバーブ）
 - S3N SUPER FLUTTER V2（グリッチ）
 - ALBIT A45M pro（プリアンプ）
+
+### VRゴーグル・トラッキング機器
+- Meta Quest 2
+- HTC SteamVR Base Station 2.0
+- HTC VIVE Tracker 2018
