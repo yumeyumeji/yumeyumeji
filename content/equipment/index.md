@@ -17,10 +17,10 @@ date = 2025-06-13T21:06:55+09:00
 - TELEFUNKEN M80（ダイナミックマイク）
 
 ### モニター
-- beyerdynamic DT990PRO（ヘッドホン）
-- YAMAHA HPH-MT8（ヘッドホン）
 - Focal SHAPE50（スピーカー）
 - ZAOR MIZA V-Stand V42（SPスタンド）
+- beyerdynamic DT990PRO（ヘッドホン）
+- YAMAHA HPH-MT8（ヘッドホン）
 
 ### 電源
 - FURMAN SS-6
