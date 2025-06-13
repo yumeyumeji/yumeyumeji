@@ -23,8 +23,8 @@ date = 2025-06-13T21:06:55+09:00
 - YAMAHA HPH-MT8（ヘッドホン）
 
 ### 電源
-- FURMAN SS-6
 - TASCAM AV-P250
+- FURMAN SS-6
 
 ### ソフトウェア
 - Cubase Pro 13（DAW）
