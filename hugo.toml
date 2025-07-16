@@ -62,12 +62,18 @@ theme = "hugo-coder-main"
   identifier = "contact"
   name = "CONTACT"
   url = "/contact/"
-  weight = 5
+  weight = 6
 
   [[menu.main]]
   identifier = "equipment"
   name = "EQUIPMENT"
   url = "/equipment/"
+  weight = 5
+
+  [[menu.main]]
+  identifier = "news"
+  name = "NEWS"
+  url = "/news/"
   weight = 4
 
 [markup]
