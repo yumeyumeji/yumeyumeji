@@ -1,7 +1,7 @@
 +++
 title = 'ボーマス60新譜 "バケモン" XFD公開！'
 date = 2025-07-16T23:31:45+09:00
-draft = true
+draft = false
 +++
 
 [ボーマス60](https://ketto.com/tvm/)の新譜『バケモン』XFDを公開しました。
