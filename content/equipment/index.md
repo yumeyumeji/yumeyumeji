@@ -36,7 +36,7 @@ date = 2025-06-13T21:06:55+09:00
 - friendly fire Fx Strega（ファズ）
 - PETERSON StroboStomp Mini（チューナー/バッファ）
 - VOX V846-HW（ワウ）
-- DryBell Vibe Machine V-3（ユニヴァイブ） | 
+- DryBell Vibe Machine V-3（ユニヴァイブ）
 - friendly fire Fx Sirius OverDrive（オーバードライブ）
 - Caroline Guitar Company kilobyte（ディレイ）
 - Caroline Guitar Company METEORE（リバーブ）
