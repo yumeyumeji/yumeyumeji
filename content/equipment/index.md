@@ -32,13 +32,12 @@ date = 2025-06-13T21:06:55+09:00
 - Adobe Creative Cloud コンプリートプラン
 
 ### ギター用エフェクトボード（接続順）
+- friendly fire Fx Baby Apple's Crown（ファズ）
 - friendly fire Fx Strega（ファズ）
-- friendly fire Fx RAPPA FUZZ（ファズ）
 - PETERSON StroboStomp Mini（チューナー/バッファ）
 - VOX V846-HW（ワウ）
-- otodel WDB2g（ブースター）
+- DryBell Vibe Machine V-3（ユニヴァイブ） | 
 - friendly fire Fx Sirius OverDrive（オーバードライブ）
-- Animals Pedal Car Crush Chorus/Vibe（モジュレーション）
 - Caroline Guitar Company kilobyte（ディレイ）
 - Caroline Guitar Company METEORE（リバーブ）
 - S3N SUPER FLUTTER V2（グリッチ）
