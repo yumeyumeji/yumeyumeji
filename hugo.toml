@@ -33,7 +33,7 @@ theme = "hugo-coder-main"
 
   [[params.social]]
     name = "Streaming"
-    url  = "https://www.tunecore.co.jp/artists?id=1119304
+    url  = "https://www.tunecore.co.jp/artists?id=1119304"
 
   [[params.social]]
     name = "foriio"
