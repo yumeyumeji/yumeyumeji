@@ -5,8 +5,8 @@ date = 2025-06-13T21:06:55+09:00
 
 ### エレキギター
 - RS Guitarworks STタイプ（Main）
+- Burny LPタイプ（秘密兵器１号くん）
 - Fender Japan TL72
-- Washburn N2
 
 ### エレキベース
 - Elioth J303 池内銘木商店Mod
