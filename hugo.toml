@@ -32,6 +32,10 @@ theme = "hugo-coder-main"
     url  = "https://www.youtube.com/channel/UCklrdpcJIbHBUXY7rDpBPpA"
 
   [[params.social]]
+    name = "Streaming"
+    url  = "https://www.tunecore.co.jp/artists?id=1119304
+
+  [[params.social]]
     name = "foriio"
     url  = "https://www.foriio.com/yumeji"
 
